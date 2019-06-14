@@ -1,0 +1,23 @@
+body {
+    background-image: url("photo-1498243691581-b145c3f54a5a.jpg");
+    background-color: #cccccc;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+  }
+ /* img {
+    margin-bottom: -293px;
+}*/
+  .right{
+    
+    margin-left: 700px;
+}
+    .nav{
+            margin-left: 760px;
+    }
+
+  
+    
